@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import os
+import 
 from setuptools import setup, find_packages
 
 # Read long description
@@ -13,7 +13,8 @@ if os.path.isfile(readme_path):
         long_description = fh.read()
 
 setup(
-    name="linkook",
+    name="anyr
+    
     version="1.1.2",
     author="Jack Ju1y",
     author_email="ju1y0x0@proton.me",
